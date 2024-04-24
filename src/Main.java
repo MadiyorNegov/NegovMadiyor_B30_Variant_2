@@ -16,6 +16,11 @@ public class Main {
 
         }
         System.out.println(count);
+
+        
+       
+
+
     }
     public static String reverse(String str) {
 
